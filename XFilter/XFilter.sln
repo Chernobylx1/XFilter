@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.0.0
 MinimumVisualStudioVersion = 10.0.0.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFilter.Framework", "XFilter.Framework\XFilter.Framework.csproj", "{4C387EDA-434D-48AA-B3C2-E5A9BB0486E1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFilter.GameData", "XFilter.GameData\XFilter.GameData.csproj", "{3CD8FEB3-A30A-442E-A81E-9CB265A65CC1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4C387EDA-434D-48AA-B3C2-E5A9BB0486E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C387EDA-434D-48AA-B3C2-E5A9BB0486E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C387EDA-434D-48AA-B3C2-E5A9BB0486E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CD8FEB3-A30A-442E-A81E-9CB265A65CC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CD8FEB3-A30A-442E-A81E-9CB265A65CC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CD8FEB3-A30A-442E-A81E-9CB265A65CC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CD8FEB3-A30A-442E-A81E-9CB265A65CC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
